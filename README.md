@@ -13,4 +13,5 @@
 - Aprobar mate II
 - Terminar la tecnicatura
 
+<img src="/yo.jpg" alt="Mi foto de presentación" width="300" htight= auto/>
 
